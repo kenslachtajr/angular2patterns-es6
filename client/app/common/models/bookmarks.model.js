@@ -1,4 +1,4 @@
-import { uniqueID, findIndex, remove } from 'lodash';
+import { uniqueId, findIndex, remove } from 'lodash';
 
 class BookmarksModel {
   constructor($q) {
